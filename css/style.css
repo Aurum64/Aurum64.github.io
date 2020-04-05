@@ -2,7 +2,7 @@
 
 body {
     position: relative;
-    background-image: url(../img/background.png);
+    background-color: #2d3828;
     z-index: 1;
     padding-top: 50px;
 }
